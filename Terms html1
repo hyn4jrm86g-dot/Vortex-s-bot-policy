@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms of Service</title>
+<style>
+body{font-family:Arial,sans-serif;max-width:800px;margin:40px auto;padding:20px;line-height:1.8;color:#222}
+</style>
+</head>
+<body>
+<h1>Terms of Service</h1>
+<p>Last updated: October 9, 2026</p>
+
+<h2>1. Acceptance</h2>
+<p>By using this Discord bot, you agree to these Terms of Service and Discord's Terms of Service and Community Guidelines.</p>
+
+<h2>2. Bot Features</h2>
+<p>The bot may provide moderation, welcome messages, logging, leveling, and other server management features. Features may change or become unavailable.</p>
+
+<h2>3. Acceptable Use</h2>
+<p>You must not use the bot to break Discord's rules, abuse its features, or interfere with its operation.</p>
+
+<h2>4. Availability</h2>
+<p>The bot is provided on an as-available basis. Continuous or uninterrupted service is not guaranteed.</p>
+
+<h2>5. Contact</h2>
+<p>For questions about these terms, contact the bot owner through the bot's designated support channel.</p>
+</body>
+</html>
